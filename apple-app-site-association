@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "7BR642697A.com.worldsky.hmi",
-                "paths": [ "/home", "/push","/setting"]
+                "paths": [ "/*", "/push","/setting"]
             }
         ]
     }
